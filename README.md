@@ -1,4 +1,4 @@
-# 🎓 Projeto API Aluno Online - UNIESP (Back-end I)
+# 🎓 Projeto API  - UNIESP (Back-end I)
 
 ## 📝 Explicação do Projeto
 Este projeto consiste em uma **API REST** para o gerenciamento de uma instituição de ensino. O sistema permite realizar o cadastro, consulta, atualização e exclusão (CRUD) de **Alunos** e **Professores**, integrando o backend em Java com um banco de dados relacional PostgreSQL.
