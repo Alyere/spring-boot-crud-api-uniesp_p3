@@ -34,23 +34,23 @@ O sistema utiliza o padrão **MVC (Model-View-Controller)**, dividindo as respon
 
 ### 🟢 Cadastro (POST)
 > Realizando o cadastro de novos registros no sistema.
-[ <img width="1918" height="995" alt="POST_Professor" src="https://github.com/user-attachments/assets/c186fd5c-3f1d-41a1-86d6-9ad38534beec" /> <img width="1916" height="990" alt="POST_Aluno" src="https://github.com/user-attachments/assets/c8320270-8a7f-4643-b611-5d0c2d6ffb24" />
-  ]
+>  <img width="1918" height="995" alt="POST_Professor" src="https://github.com/user-attachments/assets/c186fd5c-3f1d-41a1-86d6-9ad38534beec" /> <img width="1916" height="990" alt="POST_Aluno" src="https://github.com/user-attachments/assets/c8320270-8a7f-4643-b611-5d0c2d6ffb24" />
+  
 
 ### 🔵 Listagem (GET)
 > Consultando todos os dados cadastrados na base de dados.
-[   <img width="1919" height="992" alt="GET_Aluno" src="https://github.com/user-attachments/assets/3fe25075-1cda-4a9d-a8a8-abc3d99fe117" />
-  <img width="1919" height="997" alt="GET_Professor" src="https://github.com/user-attachments/assets/eee56e2c-a625-403f-bb15-5ed71c952acf" />    ]
+>   <img width="1919" height="992" alt="GET_Aluno" src="https://github.com/user-attachments/assets/3fe25075-1cda-4a9d-a8a8-abc3d99fe117" />
+  <img width="1919" height="997" alt="GET_Professor" src="https://github.com/user-attachments/assets/eee56e2c-a625-403f-bb15-5ed71c952acf" />    
 
 ### 🟠 Atualização (PUT)
 > Alterando informações de registros existentes através do ID.
-[ <img width="1919" height="992" alt="PUT_Professor " src="https://github.com/user-attachments/assets/6a549bda-4dae-43c2-a0e3-e7294735f084" />   <img width="1919" height="988" alt="PUT_Aluno" src="https://github.com/user-attachments/assets/caecb9e9-2ce8-4a92-b861-ec0cb505934d" />
-]
+ <img width="1919" height="992" alt="PUT_Professor " src="https://github.com/user-attachments/assets/6a549bda-4dae-43c2-a0e3-e7294735f084" />   <img width="1919" height="988" alt="PUT_Aluno" src="https://github.com/user-attachments/assets/caecb9e9-2ce8-4a92-b861-ec0cb505934d" />
+
 
 ### 🔴 Exclusão (DELETE)
 > Removendo registros do sistema com sucesso.
-[   <img width="1919" height="995" alt="DELETE_Aluno" src="https://github.com/user-attachments/assets/4f3b467b-f560-4f52-a35a-ee4bbd53d338" />
-  <img width="1919" height="997" alt="DEL_Professor" src="https://github.com/user-attachments/assets/4bf45d12-19c1-4faa-8aba-6f602205597e" />    ]
+   <img width="1919" height="995" alt="DELETE_Aluno" src="https://github.com/user-attachments/assets/4f3b467b-f560-4f52-a35a-ee4bbd53d338" />
+  <img width="1919" height="997" alt="DEL_Professor" src="https://github.com/user-attachments/assets/4bf45d12-19c1-4faa-8aba-6f602205597e" /> 
 
 ---
 
@@ -58,7 +58,7 @@ O sistema utiliza o padrão **MVC (Model-View-Controller)**, dividindo as respon
 > Evidência das tabelas criadas e populadas no PostgreSQL, confirmando a persistência dos dados testados.
 
 ### Tabela de Alunos
-[   <img width="1919" height="994" alt="DB_Aluno" src="https://github.com/user-attachments/assets/6ad334f5-4483-49c8-b9a8-2e5c2d1f4835" /> ]
+   <img width="1919" height="994" alt="DB_Aluno" src="https://github.com/user-attachments/assets/6ad334f5-4483-49c8-b9a8-2e5c2d1f4835" /> 
 
 ### Tabela de Professores
     <img width="1919" height="999" alt="DB_Professor" src="https://github.com/user-attachments/assets/2efd9d3e-1ea4-4435-acde-ec0692d8dd84" /> 
