@@ -61,7 +61,7 @@ O sistema utiliza o padrão **MVC (Model-View-Controller)**, dividindo as respon
 [   <img width="1919" height="994" alt="DB_Aluno" src="https://github.com/user-attachments/assets/6ad334f5-4483-49c8-b9a8-2e5c2d1f4835" /> ]
 
 ### Tabela de Professores
-[    <img width="1919" height="999" alt="DB_Professor" src="https://github.com/user-attachments/assets/2efd9d3e-1ea4-4435-acde-ec0692d8dd84" /> ]
+    <img width="1919" height="999" alt="DB_Professor" src="https://github.com/user-attachments/assets/2efd9d3e-1ea4-4435-acde-ec0692d8dd84" /> 
 
 
 ---
